@@ -14,14 +14,14 @@
 <br>
 <picture>
 <source
-  srcset="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=8&exclude_repo=adsp,haikori&theme=dark"
+  srcset="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats&hide_progress=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=8&exclude_repo=adsp,haikori"
+  srcset="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats&hide_progress=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=8&exclude_repo=adsp,haikori" />
+<img src="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats&hide_progress=true" />
 </picture>
 
 
