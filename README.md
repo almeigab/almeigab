@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats-green-ten-19.vercel.app/api?username=almeigab&show_icons=true&theme=dark" />
 </picture>
 <picture>
-<img src="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats&hide_progress=true&theme=dark" />
+<img src="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats,adsp&hide_progress=true&theme=dark" />
 </picture>
 
 
