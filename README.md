@@ -7,6 +7,7 @@
 <img src="https://github-readme-stats-green-ten-19.vercel.app/api/top-langs/?username=almeigab&layout=compact&langs_count=10&hide=fortran,qmake,MATLAB&exclude_repo=github-readme-stats,adsp&hide_progress=true&theme=dark" />
 </picture>
 
+[![GitHub Streak](https://github-readme-streak-stats-three-indol.vercel.app/?user=almeigab&theme=dark&starting_year=2023&exclude_days=Sat%2CSun)](https://git.io/streak-stats)
 
 <!--
 **almeigab/almeigab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
